@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kseniya
 
-I'm a junior data analyst. Now I'm currently looking for a job.
+I'm a junior data analyst. 
 
 ### Connect with me:
 <img align='left' alt='Iwitney | Mail' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@7.15.0/icons/maildotru.svg'/><a href='mailto: taygind@gmail.com'>taygind@gmail.com</a><br>
